@@ -3,7 +3,7 @@
 ## Portfolio
 [Portfolio Link](https://example.com)
 
-## 🤔 - About Me:
+## 🤔 - About Me
 - 🔭 Étudiante en Licence informatique à Avignon.
 - J'adore me lancer dans de nouveaux projets et découvrir l'immense monde du développement !
 - Je code sur les logiciels Jetbrain et Visual Studio Code. De plus, je maîtrise Photoshop, Premiere Pro et les logiciels bureautiques de base (Excel, Word, Notion, etc.).
